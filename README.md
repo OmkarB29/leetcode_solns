@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/OmkarB29/leetcode_solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/OmkarB29/leetcode_solns/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/OmkarB29/leetcode_solns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/OmkarB29/leetcode_solns/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OmkarB29/leetcode_solns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/OmkarB29/leetcode_solns/tree/master/0992-subarrays-with-k-different-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/OmkarB29/leetcode_solns/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
